@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(128, 113, 113);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.Head{
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1.7fr;
+    background: white;
+    margin: 50px;
+}
+
+.First{
+    position: relative;
+    background: rgb(211, 208, 208);
+    margin-top: 37px;
+    margin-left: 45px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.Creation{
+    position: static;
+    background: white;
+}
+
+.Info{
+    color: rgb(29, 28, 28);
+    margin-top: 31px;
+    margin-left: 14px;
+    font-size: 18.5px;
+    font-weight: 600;
+}
+
+.Row1{
+    background: black;
+    width: 295px;
+    height: 2px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.qualification{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.information{
+    margin-top: 10px;
+    margin-left: 9px;
+    font-size: 18.5px;
+    font-weight: 700;
+}
+
+.Degree{
+    margin-left: 9px;
+    font-size: 17px;
+}
+
+.name{
+    margin-left: 9px;
+    font-size: 40px;
+}
+
+.lower{
+    margin-left: 9px;
+    margin-top: 20px;
+    font-size: 18.5px;
+    font-weight: 700;
+}
+
+.school-name{
+    margin-left: 9px;
+    font-size: 18.5px;
+}
+
+.Row2{
+    background: black;
+    width: 295px;
+    height: 2px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.CERTIFICATES{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.Web{
+    margin-top: 10px;
+    margin-left: 9px;
+    font-size: 18.5px;
+    font-weight: 700;
+}
+
+.Company{
+    margin-left: 9px;
+    font-size: 17px;
+}
+
+.second-training{
+    margin-top: 15px;
+    margin-left: 9px;
+    font-size: 18.5px;
+    font-weight: 700;
+}
+
+.secondary{
+    margin-left: 9px;
+    font-size: 18.5px;
+}
+
+.Row3{
+    background: black;
+    width: 295px;
+    height: 2px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.Technical{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.Mind{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.Row4{
+    background: black;
+    width: 295px;
+    height: 2px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.list{
+    margin-left: 26px;
+    margin-top: 5px;
+    font-size: 18.5px;
+    font-weight: 500;
+}
+
+.Row5{
+    background: black;
+    width: 295px;
+    height: 2px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.list1{
+    margin-left: 26px;
+    margin-top: 6px;
+    font-size: 18.5px;
+    font-weight: 500;
+}
+
+.Activity{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 9px;
+}
+
+.Daily{
+    margin-left: 26px;
+    margin-top: 6px;
+    font-size: 18.5px;
+    font-weight: 500;
+}
+
+.Row6{
+    background: black;
+    width: 600px;
+    height: 4px;
+    margin-left: 11px;
+    margin-top: 45px;
+}
+
+.info{
+    margin-left: 26px;
+    margin-top: 10px;
+    font-size: 18.5px;
+}
+
+.Git{
+    font-size: 18.5px;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: black;
+    margin-top: 7px;
+    margin-left: 14px;
+}
+
+.Row9{
+    background: black;
+    width: 600px;
+    height: 4px;
+    margin-left: 11px;
+    margin-top: 8px;
+}
+
+.Pizza{
+    font-size: 18.5px;
+    font-weight: 550;
+    letter-spacing: normal;
+    color: black;
+    margin-left: 13px;
+    margin-top: 25px;
+}
+.design{
+    margin : 9px;
+}
+
+.Application{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18.5px;
+}
+
+.Items{
+    font-size: 18.5px;
+    font-weight: 550;
+    letter-spacing: normal;
+    color: black;
+    margin-left: 13px;
+    margin-top: 35px;
+}
+
+.Application2{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.Cart{
+    font-size: 18.5px;
+    font-weight: 550;
+    letter-spacing: normal;
+    color: black;
+    margin-left: 13px;
+    margin-top: 35px;
+}
+
+.Shopping{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.Password{
+    font-size: 18.5px;
+    font-weight: 550;
+    letter-spacing: normal;
+    color: black;
+    margin-left: 13px;
+    margin-top: 35px;
+}
+
+.Generator{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18.5px;
+}
